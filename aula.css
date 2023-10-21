@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(106, 106, 241);
+    font: normal arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px; /*Deixar as bordas arredondadas*/
+    padding: 15px; /*Espaçamento interno */
+    width: 500px; /*Largura desejada para o elemento */
+    margin: auto; /*Centraliza no meio dentro do container pai */
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.356); /*Serve para colocar sombra*/
+    
+}
+
+footer{
+    font-style: italic;
+    text-align: center;
+    color: white;
+
+}
+
+
+
+div{
+  
+   padding: 8px;
+}
+
